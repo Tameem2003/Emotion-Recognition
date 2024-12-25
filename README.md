@@ -111,13 +111,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-[Your Name/Team Names]
+Tameem Abrar ul Haq
+Prajwal CS
+Chinmayie Nadig
+Arpitha 
 
 ## 🙏 Acknowledgments
 
 - AffectNet Dataset
 - RAVDESS Dataset
-- [Other acknowledgments]
 
 ---
 ⭐ Star this repository if you find it helpful!
